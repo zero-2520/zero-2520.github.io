@@ -18,7 +18,7 @@ to this section's matching END comment to see page-specific styles.
 :root {
   --color-bg: #ffffff;
   --color-text-main: #000000;
-  --color-primary: #FFFF00;
+  --color-primary: #FFFFFF;
   --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
